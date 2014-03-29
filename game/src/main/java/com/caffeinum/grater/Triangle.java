@@ -74,7 +74,7 @@ public class Triangle {
 		int shader = GLES20.glCreateShader( type );
 
 		// add the source code to the shader and compile it
-		GLES20.glShaderSource( shader, shaderCode );
+		GLES20.glShaderSource( shader, shaderCode );T
 		GLES20.glCompileShader( shader );
 
 		return shader;

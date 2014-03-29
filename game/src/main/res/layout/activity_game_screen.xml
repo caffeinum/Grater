@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="com.caffeinum.grater.GameScreen"
+    android:clickable="false"
+    android:longClickable="false"
+    android:focusableInTouchMode="false">
+<!--
+    <com.caffeinum.grater.GameView android:id="@+id/game_display"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:keepScreenOn="true" />
+
+    &lt;!&ndash;<FrameLayout android:id="@+id/main_layout"&ndash;&gt;
+        &lt;!&ndash;android:layout_width="match_parent"&ndash;&gt;
+        &lt;!&ndash;android:layout_height="match_parent"&ndash;&gt;
+        &lt;!&ndash;android:fitsSystemWindows="true">&ndash;&gt;
+
+        &lt;!&ndash;<ImageView&ndash;&gt;
+            &lt;!&ndash;android:layout_width="132dp"&ndash;&gt;
+            &lt;!&ndash;android:layout_height="69dp"&ndash;&gt;
+            &lt;!&ndash;android:id="@+id/health"&ndash;&gt;
+            &lt;!&ndash;android:layout_gravity="left|top"&ndash;&gt;
+            &lt;!&ndash;android:src="@drawable/health" />&ndash;&gt;
+
+        <ImageView
+            android:layout_width="169dp"
+            android:layout_height="169dp"
+            android:id="@+id/grater"
+            android:src="@drawable/grater"
+            android:layout_marginLeft="300dp"
+            android:layout_marginTop="100dp"
+            android:contentDescription="unit" />-->
+
+        <!--<ImageButton-->
+            <!--android:layout_width="124dp"-->
+            <!--android:layout_height="153dp"-->
+            <!--android:id="@+id/stick"-->
+            <!--android:layout_gravity="left|bottom" />-->
+    <!--</FrameLayout>-->
+</FrameLayout>
